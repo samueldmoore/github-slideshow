@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to samueldmoore slide!"
 ---
-Something custom added in response to review
+Something else custom (2nd edit)
 Use the left arrow to go back!
